@@ -1,0 +1,7 @@
+export const PROJECT_STATUS = {
+    ACTIVE: "ACTIVE",
+    ARCHIVED: "ARCHIVED",
+    COMPLETED: "COMPLETED",
+    DELETED: "DELETED",
+  };
+  
